@@ -27,7 +27,7 @@ after program will be request you to enter your objects weight and they profit.
 
 ## Built With
 
-* [Dropwizard](https://www.jetbrains.com/products.html#) - The IDE Recommended
+* [IntelliJ IDEA](https://www.jetbrains.com/products.html#) - The IDE Recommended
 * [JAVA](https://www.java.com/download/) 
 
 ## Authors
