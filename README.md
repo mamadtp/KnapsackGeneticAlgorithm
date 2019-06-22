@@ -6,7 +6,7 @@ KnapsackGeneticAlgorithm
 First step you must have JAVA in your OS and compiler project.
 after then you can run the project easiy.
 
-##Inputs
+## nputs
 
 `AGE` is a variable carry the Generation of your problem.
 `itemcount` is a variable and its a size of your knapsack.
@@ -21,7 +21,7 @@ after then you can run the project easiy.
 ```
 after program will be request you to enter your objects weight and they profit.
 
-##Output
+## Output
 
 `best.fitness()` a integer number ,Maximum of profit.
 
