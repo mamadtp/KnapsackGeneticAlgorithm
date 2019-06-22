@@ -32,7 +32,7 @@ after program will be request you to enter your objects weight and they profit.
 
 ## Authors
 
-* **Mohamad Taghipour** - *Initial work* - [mamadTp](https://github.com/mamadtp)
+* **Mohamad Taghipour** - *------>* - [mamadTp](https://github.com/mamadtp)
 
 
 ## Acknowledgments
