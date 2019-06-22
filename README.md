@@ -6,7 +6,7 @@ KnapsackGeneticAlgorithm
 First step you must have JAVA in your OS and compiler project.
 after then you can run the project easiy.
 
-## nputs
+## Inputs
 
 `AGE` is a variable carry the Generation of your problem.
 `itemcount` is a variable and its a size of your knapsack.
